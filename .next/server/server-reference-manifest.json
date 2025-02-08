@@ -1,5 +1,14 @@
 {
-  "node": {},
+  "node": {
+    "1aa9bca443c0fa07698586265eb1cabdb25990c3": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Frunner%2Fworkspace%2Fapp%2Factions%2FgenerateVocabulary.ts%22%2C%5B%22generateVocabulary%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    }
+  },
   "edge": {},
-  "encryptionKey": "5vFT5U+zjZ/ZHcW/Exk4SmhDWall/jKNF4f1KiAyvNg="
+  "encryptionKey": "C3Qalzceo76pb29dajL27eQRKwP8idNvcDVUgKIzrZ8="
 }
